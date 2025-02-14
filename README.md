@@ -16,7 +16,7 @@ Sou uma desenvolvedora com ampla experiência em múltiplas plataformas e desenv
 ---
 
 ### 🔧 Ferramentas
-- JetBrains Rider, Visual Studio, Android Studio, Xcode
+- JetBrains Rider, Visual Studio, VSCode, Android Studio, Xcode
 
 ---
 
