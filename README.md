@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou a Livia Ventura! 👋
 
-<!--
-**liviaventura/liviaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
+Sou uma desenvolvedora com ampla experiência em múltiplas plataformas e desenvolvimento full-stack. Tenho conhecimento sólido em desenvolvimento mobile, web e APIs, focando sempre em criar soluções eficientes e bem estruturadas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades Técnicas
+
+- **Linguagens:** C#, PHP, HTML, CSS, JavaScript, jQuery
+- **Desenvolvimento Mobile:** Android, iOS, Xamarin
+- **Frameworks:** CodeIgniter, Bootstrap
+- **Banco de Dados:** MySQL
+- **Desenvolvimento Web:** AJAX, APIs REST
+
+---
+
+### 🔧 Ferramentas
+- JetBrains Rider, Visual Studio, Android Studio, Xcode
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/liviaventura](#)
+- **GitHub:** [github.com/liviaventura](#)
+- **Email:** livia_ventura8@hotmail.com
+
+---
+
+### 🌱 Atualmente trabalhando em
+Desenvolvimento de projetos mobile e web, com foco em soluções inovadoras utilizando Xamarin, C#, PHP e tecnologias modernas para entregar produtos de qualidade.
+
+---
+
+Obrigado por visitar meu perfil! 😊
+
